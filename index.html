@@ -7,12 +7,11 @@
     <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
-    <div class="tabs">
-        <button id="activeDate">Active date</button>
-        <button id="activeTimer">Active timer</button>
+    <div class="tabsButtons">
+        <button id="toggle">Toggle timer/date</button>
     </div>
 
-    <div class="dates">
+    <div class="dates none tab">
         <h3>Date calc</h3>
         <form id="dateCalc-form">
             <label>
@@ -27,7 +26,7 @@
             <div id="dateCalc-result"></div>
         </form>
     </div>
-    <div class="timer">
+    <div class="timer tab">
         <button id="start">Start</button>
         <button id="stop">Stop</button>
         <input type="number" name="seconds" id="inputSeconds">
