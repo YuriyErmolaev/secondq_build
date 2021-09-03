@@ -7,18 +7,33 @@
     <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
-    <h3>Date calc</h3>
-    <form id="dateCalc-form">
-        <label>
-            <strong>First date</strong>
-            <input type="date" name="firstDate">
-        </label>
-        <label>
-            <strong>Second date</strong>
-            <input type="date" name="secondDate">
-        </label>
-        <button>Calc interval</button>
-        <div id="dateCalc-result"></div>
-    </form>
+    <div class="tabs">
+        <button id="activeDate">Active date</button>
+        <button id="activeTimer">Active timer</button>
+    </div>
+
+    <div class="dates">
+        <h3>Date calc</h3>
+        <form id="dateCalc-form">
+            <label>
+                <strong>First date</strong>
+                <input type="date" name="firstDate">
+            </label>
+            <label>
+                <strong>Second date</strong>
+                <input type="date" name="secondDate">
+            </label>
+            <button>Calc interval</button>
+            <div id="dateCalc-result"></div>
+        </form>
+    </div>
+    <div class="timer">
+        <button id="start">Start</button>
+        <button id="stop">Stop</button>
+        <input type="number" name="seconds" id="inputSeconds">
+        <div id="timer-result"></div>
+    </div>
+
+
 </body>
 </html>

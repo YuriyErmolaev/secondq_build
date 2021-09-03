@@ -29,7 +29,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../firstQuarter/Professional layout/lesson7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/timer" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -37,6 +37,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Learn\GeekBrains\Frontend_developer\secondQuarterBuild\1\first_lesson\src\timer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Learn\GeekBrains\Frontend_developer\secondQuarterBuild\1\first_lesson\src" />
+      <recent name="C:\Learn\GeekBrains\Frontend_developer\secondQuarterBuild\1\first_lesson\src\timer" />
+      <recent name="C:\Learn\GeekBrains\Frontend_developer\secondQuarterBuild\1\first_lesson\src\dates" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/first_lesson/index.html" useBuiltInWebServerPort="true">
@@ -57,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1630499428551</updated>
       <workItem from="1630499430142" duration="2372000" />
-      <workItem from="1630539745437" duration="12935000" />
+      <workItem from="1630539745437" duration="29077000" />
     </task>
     <servers />
   </component>
